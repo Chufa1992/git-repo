@@ -1,1 +1,2 @@
-print("GGoodbye world");
+print("Goodbye world");
+print(:Goodbye");
